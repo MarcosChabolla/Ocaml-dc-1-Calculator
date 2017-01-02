@@ -1,4 +1,3 @@
-#Amit Khatri (1398993)
-#Marcos Chabolla (1437530)
+Ocaml implementation of a desk calculator dc(1). Implemented are the functions: + - * / % ^ c d f l p s.
 
-Everything works except pow
+Everything works except ^
